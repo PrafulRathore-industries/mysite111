@@ -1,0 +1,16 @@
+li a{
+    margin-top: 20px;
+    font-size: 30px; 
+    color:goldenrod;
+    /* background-color: rgb(8, 8, 8); */
+    }
+body {
+    background: white url("../images/p1.webp") no-repeat;
+    height:100%;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+a{
+    color:goldenrod;
+}
